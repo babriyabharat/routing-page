@@ -1,0 +1,8 @@
+.banner-image img{
+    position: absolute;
+    width: 700px;
+    height: 500px;
+    object-fit: cover;
+    top: 10%;
+    left: 45%;
+}

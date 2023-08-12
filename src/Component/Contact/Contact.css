@@ -1,0 +1,10 @@
+.contact-image img{
+    position: absolute;
+    top: 0%;
+    bottom: 20%;
+}
+.text p{
+    position: absolute;
+    top: 40%;
+    bottom: 0%;
+}
